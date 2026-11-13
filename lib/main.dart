@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:wisata_candi/screens/signInScreen.dart';
-import 'package:wisata_candi/screens/profileScreen.dart';
+import 'package:wisata_candi/screens/signIn_screen.dart';
+import 'package:wisata_candi/screens/profile_screen.dart';
 
 void main() {
   runApp(const MyApp());
